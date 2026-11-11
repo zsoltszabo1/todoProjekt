@@ -7,4 +7,3 @@ public class Launcher {
         Application.launch(org.example.todoprojekt.ToDoApplication.class, args);
     }
 }
-

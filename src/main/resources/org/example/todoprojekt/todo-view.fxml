@@ -9,7 +9,7 @@
 <?import javafx.scene.layout.HBox?>
 <?import javafx.scene.layout.VBox?>
 
-<VBox prefHeight="450.0" prefWidth="500.0" spacing="12.0" styleClass="root-pane" stylesheets="@todo-style.css" xmlns="http://javafx.com/javafx/17.0.12" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.example.todoapp.ToDoController">
+<VBox prefHeight="450.0" prefWidth="500.0" spacing="12.0" styleClass="root-pane" stylesheets="@todo-style.css" xmlns="http://javafx.com/javafx/17.0.12" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.example.todoprojekt.ToDoController">
     <padding>
         <Insets bottom="15.0" left="15.0" right="15.0" top="15.0" />
     </padding>
