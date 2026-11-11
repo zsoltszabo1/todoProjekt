@@ -1,0 +1,74 @@
+.root-pane {
+    -fx-background-color: #4E3D42;
+}
+
+.title {
+    -fx-text-fill: white;
+    -fx-font-size: 24px;
+    -fx-font-weight: bold;
+}
+
+.counter {
+    -fx-text-fill: #E0D8DA;
+}
+
+.text-field {
+    -fx-background-color: #6D6466;
+    -fx-background-radius: 8;
+    -fx-text-fill: white;
+    -fx-prompt-text-fill: #D5CDD0;
+    -fx-padding: 8 10 8 10;
+}
+
+.button {
+    -fx-background-radius: 8;
+    -fx-text-fill: white;
+    -fx-cursor: hand;
+    -fx-padding: 8 14 8 14;
+}
+
+.add-button {
+    -fx-background-color: #C16E70;
+}
+
+.add-button:hover {
+    -fx-background-color: #D48385;
+}
+
+.secondary-button {
+    -fx-background-color: #7D7073;
+}
+
+.secondary-button:hover {
+    -fx-background-color: #918487;
+}
+
+.table-view {
+    -fx-background-color: #6D6466;
+    -fx-background-radius: 8;
+    -fx-control-inner-background: #6D6466;
+    -fx-control-inner-background-alt: #6D6466;
+    -fx-table-cell-border-color: #7D7073;
+    -fx-selection-bar: #8A7C80;
+    -fx-selection-bar-non-focused: #7E7174;
+    -fx-focus-color: transparent;
+    -fx-faint-focus-color: transparent;
+}
+
+.table-view .column-header-background {
+    -fx-background-color: #5A4A4F;
+}
+
+.table-view .column-header,
+.table-view .filler {
+    -fx-background-color: #5A4A4F;
+}
+
+.table-view .column-header .label {
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
+
+.placeholder-text {
+    -fx-text-fill: #D5CDD0;
+}
